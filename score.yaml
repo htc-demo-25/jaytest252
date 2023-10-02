@@ -20,6 +20,8 @@ resources:
     type: dns
   mydb:
     type: mysql
+  bucky:
+    type: s3
   route:
     type: route
     params:
