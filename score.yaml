@@ -22,6 +22,8 @@ resources:
     type: mysql
   bucky:
     type: s3
+  reddy:
+    type: redis
   route:
     type: route
     params:
